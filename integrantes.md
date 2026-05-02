@@ -3,4 +3,4 @@ Johan Arteaga
 Nicola Carrillo
 Aaron Monzon
 Joshua Herrera
-Christian Ramos nrj
+Christian Ramos
